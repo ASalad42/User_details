@@ -7,7 +7,8 @@
 - hold shift and right-click the folder that you're in
 - select open command window here
 - Rename the file in the command line with  ``ren gitignore.tx .gitignore``
-![]()
+![image](https://user-images.githubusercontent.com/104793540/182227396-b575ce39-1cdf-472f-ac66-bdc1075ae837.png)
+
 ## Python topics covered and utilised in user_details task
 
 - function methods builtin python
@@ -40,6 +41,13 @@ print(salary.isdigit())
 
 
 ```
+## indexing example - will be in test!
+
+1. how to slice it 
+2. how to divide it 
+3. how pick specific character 
+3/4 questions related to it 
+
 
 ## DOR
 used to determine whether work on a task is ready to be started. 
