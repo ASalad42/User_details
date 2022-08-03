@@ -48,7 +48,7 @@ print(salary.isdigit())
 3. how pick specific character 
 3/4 questions related to it 
 
-TO FIX POTENTIAL MERG CONFLICT ISSUE I NEED TO PULL TO THIS TO LOCAL HOST, ADD, COMMIT AND PUSH BACK TO GITHUB
+TO FIX POTENTIAL MERG CONFLICT ISSUE I NEED TO PULL THIS TO LOCAL HOST, ADD, COMMIT AND PUSH BACK TO GITHUB
 
 ## DOR
 used to determine whether work on a task is ready to be started. 
